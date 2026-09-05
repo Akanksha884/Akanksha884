@@ -1,53 +1,105 @@
-<h1 align="center">Hi 👋, I'm Akanksha Tyagi</h1>
-<h3 align="center">B.Tech CSE Student | Data Analytics · Deep Learning · Generative AI</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14161C,100:2D303A&height=200&section=header&text=Akanksha%20Tyagi&fontSize=50&fontColor=C6A664&animation=fadeIn&fontAlignY=38&desc=Data%20Analytics%20%7C%20ML%20%26%20Gen-AI&descSize=18&descAlignY=58&descColor=FFFFFF" width="100%"/>
+
+<a href="https://www.linkedin.com/in/akanksha-tyagi-31843a434/">
+  <img src="https://img.shields.io/badge/LinkedIn-14161C?style=for-the-badge&logo=linkedin&logoColor=C6A664" />
+</a>
+<a href="mailto:akankshatyagi807@gmail.com">
+  <img src="https://img.shields.io/badge/Email-14161C?style=for-the-badge&logo=gmail&logoColor=C6A664" />
+</a>
+<a href="https://github.com/Akanksha884">
+  <img src="https://img.shields.io/badge/GitHub-14161C?style=for-the-badge&logo=github&logoColor=C6A664" />
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=3000&pause=800&color=C6A664&center=true&vCenter=true&width=600&lines=Data+Analytics+%7C+Machine+Learning;Deep+Learning+%7C+Generative+AI;Turning+Data+Into+Decisions" />
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4">
+
+### 🖤 About Me
+
+```yaml
+name: Akanksha Tyagi
+role: B.Tech CSE Student @ KIET Group of Institutions
+focus: Data Analytics · Deep Learning · Generative AI
+currently_building: End-to-end ML systems — from raw data to deployed models
+achievement: Top 50 / 400+ teams — HackNITR 6.0, NIT Rourkela
+open_to: Internships & collaborative AI/ML projects
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4">
+
+### 🗂️ Featured Work
+
+<table>
+<tr>
+<td width="50%">
+
+**🛠️ [Predictive Maintenance Platform](https://github.com/Akanksha884/predictive-maintenance-platform)**
+<br/>Sensor time-series → RUL prediction using XGBoost, LSTM, Cox survival models + SHAP explainability.
+
+</td>
+<td width="50%">
+
+**🌿 [CropGuard: Disease Detection](https://github.com/Akanksha884/cropguard-disease-detection)**
+<br/>On-device deep learning for real-world crop disease detection with Grad-CAM explainability.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🏛️ [Govt Scheme & Grievance Assistant](https://github.com/Akanksha884/govt-scheme-grievance-assistant)**
+<br/>Multilingual RAG assistant with a symbolic eligibility engine and hallucination guardrails.
+
+</td>
+<td width="50%">
+
+**🗑️ Smart IoT Dustbin**
+<br/>Real-time fill-level monitoring using Arduino, ultrasonic sensors, and ESP8266 IoT connectivity.
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4">
+
+### ⚙️ Tech Stack
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akanksha-tyagi-31843a434/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:akankshatyagi8070@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql,html,css,js,git,tensorflow,pytorch,sklearn,aws,vscode,figma&theme=dark" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4">
 
-### 🚀 About Me
+### 📊 GitHub Stats
 
-- 🎓 B.Tech (CSE), KIET Group of Institutions — CGPA 8.5
-- 🔭 Currently building end-to-end AI/ML systems — from data pipelines to deployable models
-- 🌱 Deepening my skills in **RAG systems**, **model deployment on edge devices**, and **explainable AI**
-- 🏆 Top 50 out of 400+ teams at **HackNITR 6.0**, NIT Rourkela
-- 📫 Reach me at **akankshatyagi807@gmail.com**
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Akanksha884&show_icons=true&hide_border=true&theme=dark&bg_color=14161C&title_color=C6A664&icon_color=C6A664&text_color=FFFFFF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha884&layout=compact&hide_border=true&theme=dark&bg_color=14161C&title_color=C6A664&text_color=FFFFFF" />
+</div>
 
----
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akanksha884&theme=dark&hide_border=true&background=14161C&stroke=C6A664&ring=C6A664&fire=C6A664&currStreakLabel=C6A664" />
+</div>
 
-### 🛠️ Featured Projects
-
-| Project | Description |
-|---|---|
-| 🛠️ [Predictive Maintenance Platform](https://github.com/Akanksha884/predictive-maintenance-platform) | Predicts equipment failure using sensor time-series data, XGBoost + LSTM + Cox survival models, SHAP explainability |
-| 🌿 [CropGuard: Crop Disease Detection](https://github.com/Akanksha884/cropguard-disease-detection) | Deep learning model for real-world crop disease detection, compressed for on-device mobile inference with Grad-CAM explainability |
-| 🏛️ [Govt Scheme & Grievance Assistant](https://github.com/Akanksha884/govt-scheme-grievance-assistant) | Multilingual RAG-based Gen-AI assistant with a symbolic eligibility engine and hallucination guardrails |
-| 🗑️ [Smart IoT Dustbin](https://github.com/Akanksha884) | IoT-based smart waste monitoring system using Arduino + ESP8266 |
-
----
-
-### 💻 Tech Stack
-
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-**ML/AI:** ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
-
-**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" height="4">
 
 ### 📜 Certifications
 
-- AWS Cloud Practitioner — Amazon Web Services
-- AWS AI Practitioner — Amazon Web Services
-- Cisco Academy — Networking Essentials
-- Experiential Learning Certification — NASSCOM FutureSkills Prime
+- 🟡 AWS Cloud Practitioner — Amazon Web Services
+- 🟡 AWS AI Practitioner — Amazon Web Services
+- 🟡 Cisco Academy — Networking Essentials
+- 🟡 NASSCOM FutureSkills Prime — Experiential Learning Certification
 
----
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akanksha884&show_icons=true&theme=default&hide_border=true" alt="Akanksha's GitHub stats" />
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D303A,100:14161C&height=100&section=footer" width="100%"/>
+</div>
