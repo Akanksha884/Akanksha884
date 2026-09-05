@@ -14,7 +14,7 @@
 - 🔭 Currently building end-to-end AI/ML systems — from data pipelines to deployable models
 - 🌱 Deepening my skills in **RAG systems**, **model deployment on edge devices**, and **explainable AI**
 - 🏆 Top 50 out of 400+ teams at **HackNITR 6.0**, NIT Rourkela
-- 📫 Reach me at **akankshatyagi8070@gmail.com**
+- 📫 Reach me at **akankshatyagi807@gmail.com**
 
 ---
 
