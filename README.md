@@ -103,3 +103,4 @@ open_to: Internships & collaborative AI/ML projects
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D303A,100:14161C&height=100&section=footer" width="100%"/>
 </div>
+
